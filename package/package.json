@@ -1,0 +1,19 @@
+{
+  "name": "@frederick_tejeda/my-errors-handler",
+  "version": "1.0.8",
+  "description": "An error handler library",
+  "main": "my-errors-handler.js",
+  "type": "module",
+  "scripts": {
+    "start": "node my-errors-handler.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frederick-Tejeda/my-errors-handler.git"
+  },
+  "keywords":[
+    "Error", "Errors", "Error handler", "Errors handler"
+  ],
+  "author": "Frederick Tejeda",
+  "license": "MIT"
+}
